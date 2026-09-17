@@ -1,0 +1,12 @@
+{
+  "name": "vri-chat-deck-oauth-bridge",
+  "version": "0.2.0",
+  "private": true,
+  "description": "HTTPS OAuth callback bridge for VRI Chat Deck",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
